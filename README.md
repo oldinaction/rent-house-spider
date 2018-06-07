@@ -15,7 +15,7 @@
 
 - `python2.7`
 - `pip`(windows默认已经安装，`pip list`查看安装插件)
-- `pip install scrapy`
+- `pip install scrapy` v1.3
 - `pip install ConfigParser`
 - `pip install MySQL-python` mysql数据库
 
